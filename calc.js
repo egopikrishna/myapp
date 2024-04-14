@@ -1,4 +1,4 @@
-const a = 10;
-const b = 20;
+const a = 100;
+const b = 200;
 
-const result = a * b;
+const result = a / b;
